@@ -4,11 +4,10 @@ title: Acceptable Risk LA
 email: acceptableriskla@gmail.com
 brand: Acceptable Risk LA
 headline: Los Angeles-based Art Collective
-description: > # this means to ignore newlines until "baseurl:"
-  New Site
+description: "Acceptable Risk LA (ARLA) is a Los-Angeles based arts collective founded in 2019."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://acceptableriskla.com" # the base hostname & protocol for your site
-copyright: 2018 Acceptable Risk LA, All Rights Reserved.
+copyright: 2019 Acceptable Risk LA, All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -23,3 +22,95 @@ email: acceptableriskla@gmail.com
 # Tracking
 googleAnalitycsID: UA-132567903-1
 
+# Team names, titles and social links
+people:
+- name: <a href = "http://www.emilybabette.com">Emily Babette</a>
+  pic: 1
+  #position: 
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/emilybabette/'
+
+- name: <a href = "https://cargocollective.com/GabbahBaya">Gabbah Baya</a>
+  pic: 2
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/gabbahbaya/'
+
+- name: <a href = "http://www.carlychubak.com">Carly Chubak</a>
+  pic: 3
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/whatcarlysees/'
+
+- name: <a href = "https://seacully.com/">Sean Cully</a>
+  pic: 4
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/seacully/'
+
+- name: <a href = "https://mirandajfriedman.com/">Miranda J. Friedman</a>
+  pic: 5
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/mirandajfriedman/'
+
+- name: <a href = "https://centralserver.biz/">Joshua Oduga</a>
+  pic: 6
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/tundeoduga/'
+
+- name: <a href = "https://www.instagram.com/mummers22/">Tu Nguyen</a>
+  pic: 7
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/mummers22/'
+
+- name: <a href = "http://stephaniesherwoodart.com/">Stephanie Sherwood</a>
+  pic: 8
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/stephanie_sherwood_art/'
+
+- name: <a href = "http://www.kshanks.com/">Katie Shanks</a>
+  pic: 9
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/art.kshanks/'
+
+- name: <a href = "http://katesikorski.com/">Kate Sikorski</a>
+  pic: 10
+  #position:
+  social:
+    - title: instagram
+      url: 'https://www.instagram.com/kate_sikorski/'
+
+
+
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: http://instagram.com/acceptableriskla
+  - title: facebook
+    url: https://www.facebook.com/acceptableriskla/
+ 
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
