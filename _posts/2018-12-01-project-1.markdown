@@ -1,0 +1,15 @@
+---
+title: FORUM
+subtitle: Torrance Art Museum
+layout: default
+modal-id: 1
+date: 2018-12-01
+img: forum.png
+thumbnail: forum_thumb.png
+alt: FORUM
+project-date: December 2018
+client: none
+category: Exhibition
+description: The inaugural FORUM mentorship program at the Torrance Art Museum culminated in an exhibition organized by its members in the main gallery space.
+
+---

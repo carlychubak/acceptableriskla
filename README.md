@@ -1,80 +1,30 @@
-# Jekyll Instagram Portfolio Theme
+Agency Jekyll theme
+====================
 
-Clean, minimalistic and responsive portfolio theme for Jekyll powered by Bootstrap 4.
-For the portfolio section is used Instagram widget, but you can easily update it with another content source.
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-## Live Demo
+# How to use
 
-https://portfolio-central.github.io/jekyll-instagram-portfolio-theme/
-![Jekyll Instagram Portfolio Theme](./screenshot.png "Jekyll Instagram Portfolio Theme")
+###Portfolio 
 
-## Showcase
+Portfolio projects are in '/_posts'
 
-The best usage examples:
+Images are in '/img/portfolio'
 
-- [Pavel Guzenko](http://guzenko.org.ua)
-- [Victor Mikitenko](https://mikitenko-org-ua.github.io/site/)
-- [Anthony Fuentes](http://anthonyfuentes.us/)
-- [Serhii Grytsyshyn](https://grserhii.github.io/)
+###About
 
-To add your example: fork the repo, add new line to the list above and create a pull request.
+Images are in '/img/about/'
 
-## Featured on
+###Team
 
-- [Template.net](https://www.template.net/cms-templates/jekyll/jekyll-themes-templates/)
-- [JekyllThemes.org](http://jekyllthemes.org/themes/instagram-portfolio-theme/)
+Team members and info are in '_config.yml'
 
-## Powered by
+Images are in '/img/team/'
 
-- [Jekyll](https://jekyllrb.com/)
-- [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
-- [jQuery](https://jquery.com/)
-- [SnapWidget](https://snapwidget.com)
-- [Google Fonts: Staatliches](https://fonts.google.com/specimen/Staatliches)
-- [Font Awesome](http://fontawesome.io/)
 
-## Installation
-Install Jekyll:
+# Demo
 
-```
-gem install jekyll bundler
-```
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
-Install bundle dependiencies:
-
-```
-bundle install
-```
-
-When finished, run the dev server:
-
-```
-bundle exec jekyll serve
-```
-
-or just:
-
-```
-jekyll serve
-
-```
-To stop the server, use `CTRL+C`.
-
-## Building front-end assets: styles and scripts
-
-Install module dependencies:
-
-```
-npm install
-```
-
-Run the build script to generate updated front-end assets:
-
-```
-npm run build
-```
-
-Watch for changes and automatically rebuild assets (`CTRL+C` to stop):
-```
-npm run watch
-```
+=========
+For more details, read [documentation](http://jekyllrb.com/)

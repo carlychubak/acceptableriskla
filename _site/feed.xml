@@ -4,21 +4,34 @@
     <title>Acceptable Risk LA</title>
     <description>Acceptable Risk LA (ARLA) is a Los-Angeles based arts collective founded in 2019.</description>
     <link>http://acceptableriskla.com/</link>
-    <atom:link href="http://acceptableriskla.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Apr 2019 01:00:32 -0700</pubDate>
-    <lastBuildDate>Sat, 06 Apr 2019 01:00:32 -0700</lastBuildDate>
+    <atom:link href="http://acceptableriskla.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 19 Apr 2019 18:37:50 -0700</pubDate>
+    <lastBuildDate>Fri, 19 Apr 2019 18:37:50 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>CO-LAB</title>
+        <title>CO-LAB 4</title>
         <description>
 </description>
         <pubDate>Fri, 01 Mar 2019 00:00:00 -0800</pubDate>
-        <link>http://acceptableriskla.com/sculpture/2019/03/01/colab/</link>
-        <guid isPermaLink="true">http://acceptableriskla.com/sculpture/2019/03/01/colab/</guid>
+        <link>http://acceptableriskla.com/exhibition/2019/03/01/project-2/</link>
+        <guid isPermaLink="true">http://acceptableriskla.com/exhibition/2019/03/01/project-2/</guid>
         
         
-        <category>Sculpture</category>
+        <category>Exhibition</category>
+        
+      </item>
+    
+      <item>
+        <title>FORUM</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://acceptableriskla.com/exhibition/2018/12/01/project-1/</link>
+        <guid isPermaLink="true">http://acceptableriskla.com/exhibition/2018/12/01/project-1/</guid>
+        
+        
+        <category>Exhibition</category>
         
       </item>
     

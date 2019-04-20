@@ -1,0 +1,15 @@
+---
+title: CO-LAB 4
+subtitle: Torrance Art Museum
+layout: default
+modal-id: 2
+date: 2019-03-01
+img: COLABks.jpg
+thumbnail: COLABks_thumb.jpg
+alt: image-alt
+project-date: 2019
+client: none
+category: Exhibition
+description: ARLA and Amber Solo (Rotterdam). CO/LAB 4. Torrance Art Museum. 3/30 - 5/4/2019.  Photo courtesy Kate Sikorski.
+
+---

@@ -1,26 +1,11 @@
+url: "http://acceptableriskla.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+
 # Site settings
-# in the templates available like {{ site.myvariable }}.
 title: Acceptable Risk LA
 email: acceptableriskla@gmail.com
-brand: Acceptable Risk LA
-headline: Los Angeles-based Art Collective
 description: "Acceptable Risk LA (ARLA) is a Los-Angeles based arts collective founded in 2019."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://acceptableriskla.com" # the base hostname & protocol for your site
 copyright: 2019 Acceptable Risk LA, All Rights Reserved.
-
-# Build settings
-markdown: kramdown
-
-# Account ids
-snapwidget: 646873
-
-# Contacts
-email: acceptableriskla@gmail.com
-# phone: +1-800-555-2016
-
-# Tracking
-googleAnalitycsID: UA-132567903-1
 
 # Team names, titles and social links
 people:
@@ -28,6 +13,8 @@ people:
   pic: 1
   #position: 
   social:
+    - title: laptop
+      url: 'http://www.emilybabette.com'
     - title: instagram
       url: 'https://www.instagram.com/emilybabette/'
 
@@ -35,6 +22,8 @@ people:
   pic: 2
   #position:
   social:
+    - title: laptop
+      url: 'https://cargocollective.com/GabbahBaya'
     - title: instagram
       url: 'https://www.instagram.com/gabbahbaya/'
 
@@ -42,6 +31,8 @@ people:
   pic: 3
   #position:
   social:
+    - title: laptop
+      url: 'http://www.carlychubak.com/'
     - title: instagram
       url: 'https://www.instagram.com/whatcarlysees/'
 
@@ -49,6 +40,8 @@ people:
   pic: 4
   #position:
   social:
+    - title: laptop
+      url: 'https://seacully.com'
     - title: instagram
       url: 'https://www.instagram.com/seacully/'
 
@@ -56,6 +49,8 @@ people:
   pic: 5
   #position:
   social:
+    - title: laptop
+      url: 'https://mirandajfriedman.com/'
     - title: instagram
       url: 'https://www.instagram.com/mirandajfriedman/'
 
@@ -63,6 +58,8 @@ people:
   pic: 6
   #position:
   social:
+    - title: laptop
+      url: 'https://centralserver.biz/'
     - title: instagram
       url: 'https://www.instagram.com/tundeoduga/'
 
@@ -77,6 +74,8 @@ people:
   pic: 8
   #position:
   social:
+    - title: laptop
+      url: 'http://stephaniesherwoodart.com/'
     - title: instagram
       url: 'https://www.instagram.com/stephanie_sherwood_art/'
 
@@ -84,6 +83,8 @@ people:
   pic: 9
   #position:
   social:
+    - title: laptop
+      url: 'http://www.kshanks.com/'
     - title: instagram
       url: 'https://www.instagram.com/art.kshanks/'
 
@@ -91,25 +92,23 @@ people:
   pic: 10
   #position:
   social:
+    - title: laptop
+      url: 'http://katesikorski.com/'
     - title: instagram
       url: 'https://www.instagram.com/kate_sikorski/'
-
-
-
-
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://instagram.com/acceptableriskla
+    url: https://www.instagram.com/acceptableriskla/
   - title: facebook
     url: https://www.facebook.com/acceptableriskla/
- 
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
-  - line: 
+  - line: Various Locations
+  - line: Los Angeles, CA
 
 # Build settings
 markdown: kramdown
