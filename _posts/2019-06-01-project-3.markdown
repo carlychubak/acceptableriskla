@@ -2,7 +2,7 @@
 title: Stratigraphy Sequence
 permalink: strat.html
 subtitle: B-LA Connect
-layout: default
+layout: post
 modal-id: 3
 date: 2019-04-01
 img: strat.png

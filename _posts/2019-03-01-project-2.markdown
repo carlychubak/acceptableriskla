@@ -2,12 +2,12 @@
 title: CO-LAB 4
 permalink: colab4.html
 subtitle: Torrance Art Museum
-layout: default
+layout: post
 modal-id: 2
 date: 2019-03-01
 img: COLABks.jpg
 thumbnail: COLABks_thumb.jpg
-alt: image-alt
+alt: colab
 project-date: 2019
 client: none
 category: post
