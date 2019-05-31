@@ -1,0 +1,26 @@
+<!-- Portfolio Section -->
+    <section id="portfolio" ><!--class="bg-light-gray">-->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Portfolio</h2>
+                    <h3 class="section-subheading text-muted">Recent work by ARLA and its members.</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                {% for post in site.posts %}
+      			<uli>
+      			<br>
+      			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt=""></a>
+       			 <!--<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>-->
+     			  <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+     			  <br>
+     			  <br>
+    			  </uli>
+  				{% endfor %}
+    
+            </div>
+        </div>
+     </sectino>
+        
+        

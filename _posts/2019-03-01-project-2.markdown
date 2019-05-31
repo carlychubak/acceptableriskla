@@ -1,5 +1,6 @@
 ---
 title: CO-LAB 4
+permalink: colab4.html
 subtitle: Torrance Art Museum
 layout: default
 modal-id: 2
@@ -9,7 +10,17 @@ thumbnail: COLABks_thumb.jpg
 alt: image-alt
 project-date: 2019
 client: none
-category: Exhibition
+category: post
 description: ARLA and Amber Solo (Rotterdam). CO/LAB 4. Torrance Art Museum. 3/30 - 5/4/2019.  Photo courtesy Kate Sikorski.
 
 ---
+
+<h1><i>CO-LAB 4</i></h1>
+<h3>March 30- May 17, 2019</h3>
+Partnered with Amber Solo, Rotterdam, Netherlands.  
+Curated by Stephanie Sherwood and Kate Sikorski.  
+Featuring Sean Cully and Joshua Oduga.
+
+"Torrance Art Museum is pleased to present CO/LAB 4, an international, collaborative project which presents eight artist-run galleries and collectives from Los Angeles partnering with eight artist-run spaces from Rotterdam. Sixteen organizations combine their ingenuity to design eight unique curatorial projects."
+-[TAM](http://www.torranceartmuseum.com/colab4)
+![colab](img/portfolio/COLABks.jpg)

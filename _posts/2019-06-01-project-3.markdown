@@ -1,0 +1,84 @@
+---
+title: Stratigraphy Sequence
+permalink: strat.html
+subtitle: B-LA Connect
+layout: default
+modal-id: 3
+date: 2019-04-01
+img: strat.png
+thumbnail: strat_thumb.png
+alt: image-alt
+project-date: 2019
+client: none
+category: post
+description: Stratigraphy Sequence.
+
+---
+
+<h1><i>Stratigraphy Sequence</i></h1>
+<h3>June 7-23, 2019</h3>
+<h3>Vitrine  U-Kleistpark (U7), 10781 Berlin</h3>
+
+<i>STRATIGRAPHY SEQUENCE</i> is a collaboration between Berlin project space A TRANS and members of Acceptable Risk Los Angeles as a part of B-LA Connect.
+
+Featured Artists: Carly Chubak, Miranda Friedman, Tu Nguyen, Joshua Oduga,  Katie Shanks, Stephanie Sherwood.
+
+<br>
+
+\\\What makes a city become a city?
+
+// Layered Experiences. Concentrated Space. 
+
+\\\ Each installation or performance is endeavoring to explore and distill down elements of experience—essentializing them—representing them within the confines of  the A trans vitrine. 
+
+<br>
+
+\\\Where do they separate and where do they melt together?
+
+// Artistic Construction.
+
+\\\ The artists are creating visual architectures to capture systems of classification then leaving the ephemera of those explorations in situ. Each one choosing whether to build on the foundations left by earlier artists or clear elements away to construct anew. 
+
+<br>
+
+\\\ Are these categorizations even still comprehensible?
+ 
+// Compositional Archaeology. 
+
+\\\ Stratigraphy Sequence asks viewers to navigate this spatial collage constructed through successively layered temporal deposits culminating in collaborative composition. 
+<br>
+
+<h3>Event and Performance Schedule:</h3>
+
+<br>Friday, June 7: 
+<br>16:00-17:00 Edible by Stephanie Sherwood and Katie Shanks
+<br>17:00-23:00 B-LA Opening Exhibition
+<br>
+<br>Saturday, June 8:
+<br>10:30-10:45 Heat by Miranda J. Friedman
+<br>
+<br>Sunday June 9:
+<br>10:30-13:30 On the Road to:  Berlin//Los Angeles by Carly Chubak
+<br>
+<br>Monday, June 10:
+<br>TBD Rice Sculpture by Tu Nguyen
+<br>
+<br>Tuesday, June 11:
+<br>14:00-17:00 Rite to Remain by Katie Shanks
+<br>
+<br>Wednesday, June  12:
+<br>14:00-16:00 Tour 4 B-LA Connect U6 / U7
+<br>Scharaun → U7 
+<br>Kleistpark → Changing Room
+<br>
+<br><i>Saturday, June 8-Sunday June, 23
+<br>24hr daily, Installation on view at 
+<br>A TRANS Vitrine
+<br>U-Bahnhof Kleistpark (U7) in 10781 Berlin </i>
+
+
+A TRANS is an itinerant conceptual laboratory headed by Isolde Nagel for creative people and a platform for communication about contemporary art, architecture, urbanism and related culture with the focus on the city, space and architecture based in Berlin, which found a set of like minded allies in the nomadic artist collective Acceptable Risk Los Angeles. Both explore the possibilities of and draw inspiration from their expansive urban environments and the diverse communities housed therein.
+
+
+
+![strat](img/portfolio/strat.png)

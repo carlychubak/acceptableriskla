@@ -1,7 +1,8 @@
 ---
 title: FORUM
+permalink: forum.html
 subtitle: Torrance Art Museum
-layout: default
+layout: post
 modal-id: 1
 date: 2018-12-01
 img: forum.png
@@ -9,7 +10,15 @@ thumbnail: forum_thumb.png
 alt: FORUM
 project-date: December 2018
 client: none
-category: Exhibition
+category: post
 description: The inaugural FORUM mentorship program at the Torrance Art Museum culminated in an exhibition organized by its members in the main gallery space.
 
 ---
+
+<h1><i>FORUM 1</i></h1>
+<h3>December 1-15, 2018</h3>
+Curated by Joshua Oduga and Stephanie Sherwood.
+
+The inaugural FORUM mentorship program at the Torrance Art Museum culminated in an exhibition organized by its members in the main gallery space.
+
+![forum](img/portfolio/forum.png)
