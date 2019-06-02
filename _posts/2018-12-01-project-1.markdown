@@ -21,4 +21,6 @@ Curated by Joshua Oduga and Stephanie Sherwood.
 
 The inaugural FORUM mentorship program at the Torrance Art Museum culminated in an exhibition organized by its members in the main gallery space.
 
-![forum](img/portfolio/forum.png)
+<!--![forum](img/portfolio/forum.png)-->
+
+<img src = "img/portfolio/forum.png" class="img-responsive img-centered" alt="">

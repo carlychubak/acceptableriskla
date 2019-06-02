@@ -5,8 +5,8 @@
     <description>Acceptable Risk LA (ARLA) is a Los-Angeles based arts collective founded in 2019.</description>
     <link>http://acceptableriskla.com/</link>
     <atom:link href="http://acceptableriskla.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 30 May 2019 22:24:31 -0700</pubDate>
-    <lastBuildDate>Thu, 30 May 2019 22:24:31 -0700</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2019 21:28:48 -0700</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2019 21:28:48 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;\\What makes a city become a city?&lt;/p&gt;
 
-&lt;p&gt;// Layered Experiences. Concentrated Space.&lt;/p&gt;
+&lt;p&gt;// &lt;i&gt;Layered Experiences. Concentrated Space&lt;/i&gt;.&lt;/p&gt;
 
 &lt;p&gt;\\ Each installation or performance is endeavoring to explore and distill down elements of experience—essentializing them—representing them within the confines of  the A trans vitrine.&lt;/p&gt;
 
@@ -31,7 +31,7 @@
 
 &lt;p&gt;\\Where do they separate and where do they melt together?&lt;/p&gt;
 
-&lt;p&gt;// Artistic Construction.&lt;/p&gt;
+&lt;p&gt;// &lt;i&gt;Artistic Construction&lt;/i&gt;.&lt;/p&gt;
 
 &lt;p&gt;\\ The artists are creating visual architectures to capture systems of classification then leaving the ephemera of those explorations in situ. Each one choosing whether to build on the foundations left by earlier artists or clear elements away to construct anew.&lt;/p&gt;
 
@@ -39,28 +39,28 @@
 
 &lt;p&gt;\\ Are these categorizations even still comprehensible?&lt;/p&gt;
 
-&lt;p&gt;// Compositional Archaeology.&lt;/p&gt;
+&lt;p&gt;// &lt;i&gt;Compositional Archaeology. &lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;\\ Stratigraphy Sequence asks viewers to navigate this spatial collage constructed through successively layered temporal deposits culminating in collaborative composition. 
+&lt;p&gt;\\ &lt;i&gt;Stratigraphy Sequence&lt;/i&gt; asks viewers to navigate this spatial collage constructed through successively layered temporal deposits culminating in collaborative composition. 
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h3&gt;Event and Performance Schedule:&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;Friday, June 7: 
-&lt;br /&gt;16:00-17:00 Edible by Stephanie Sherwood and Katie Shanks
-&lt;br /&gt;17:00-23:00 B-LA Opening Exhibition
+&lt;br /&gt;16:00-17:00 &lt;i&gt;Edible&lt;/i&gt; by Stephanie Sherwood and Katie Shanks
+&lt;br /&gt;17:00-23:00 &lt;i&gt;B-LA&lt;/i&gt; Opening Exhibition
 &lt;br /&gt;
 &lt;br /&gt;Saturday, June 8:
-&lt;br /&gt;10:30-10:45 Heat by Miranda J. Friedman
+&lt;br /&gt;10:30-10:45 &lt;i&gt;Heat&lt;/i&gt; by Miranda J. Friedman
 &lt;br /&gt;
 &lt;br /&gt;Sunday June 9:
-&lt;br /&gt;10:30-13:30 On the Road to:  Berlin//Los Angeles by Carly Chubak
+&lt;br /&gt;10:30-13:30 &lt;i&gt;(on) the road (again)&lt;/i&gt; by Carly Chubak
 &lt;br /&gt;
 &lt;br /&gt;Monday, June 10:
-&lt;br /&gt;TBD Rice Sculpture by Tu Nguyen
+&lt;br /&gt;Sculpture by Tu Nguyen
 &lt;br /&gt;
 &lt;br /&gt;Tuesday, June 11:
-&lt;br /&gt;14:00-17:00 Rite to Remain by Katie Shanks
+&lt;br /&gt;14:00-17:00 &lt;i&gt;Rite to Remain&lt;/i&gt; by Katie Shanks
 &lt;br /&gt;
 &lt;br /&gt;Wednesday, June  12:
 &lt;br /&gt;14:00-16:00 Tour 4 B-LA Connect U6 / U7
@@ -74,7 +74,9 @@
 
 &lt;p&gt;A TRANS is an itinerant conceptual laboratory headed by Isolde Nagel for creative people and a platform for communication about contemporary art, architecture, urbanism and related culture with the focus on the city, space and architecture based in Berlin, which found a set of like minded allies in the nomadic artist collective Acceptable Risk Los Angeles. Both explore the possibilities of and draw inspiration from their expansive urban environments and the diverse communities housed therein.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;img/portfolio/strat.png&quot; alt=&quot;strat&quot; /&gt;&lt;/p&gt;
+&lt;!--![strat](img/portfolio/strat.png)--&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/portfolio/strat.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
         <link>http://acceptableriskla.com/strat.html</link>
@@ -94,8 +96,11 @@ Curated by Stephanie Sherwood and Kate Sikorski.&lt;br /&gt;
 Featuring Sean Cully and Joshua Oduga.&lt;/p&gt;
 
 &lt;p&gt;“Torrance Art Museum is pleased to present CO/LAB 4, an international, collaborative project which presents eight artist-run galleries and collectives from Los Angeles partnering with eight artist-run spaces from Rotterdam. Sixteen organizations combine their ingenuity to design eight unique curatorial projects.”
--&lt;a href=&quot;http://www.torranceartmuseum.com/colab4&quot;&gt;TAM&lt;/a&gt;
-&lt;img src=&quot;img/portfolio/COLABks.jpg&quot; alt=&quot;colab&quot; /&gt;&lt;/p&gt;
+-&lt;a href=&quot;http://www.torranceartmuseum.com/colab4&quot;&gt;TAM&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--![colab](img/portfolio/COLABks.jpg)--&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/portfolio/COLABks.jpg&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Mar 2019 00:00:00 -0800</pubDate>
         <link>http://acceptableriskla.com/colab4.html</link>
@@ -114,7 +119,9 @@ Featuring Sean Cully and Joshua Oduga.&lt;/p&gt;
 
 &lt;p&gt;The inaugural FORUM mentorship program at the Torrance Art Museum culminated in an exhibition organized by its members in the main gallery space.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;img/portfolio/forum.png&quot; alt=&quot;forum&quot; /&gt;&lt;/p&gt;
+&lt;!--![forum](img/portfolio/forum.png)--&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/portfolio/forum.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Dec 2018 00:00:00 -0800</pubDate>
         <link>http://acceptableriskla.com/forum.html</link>

@@ -27,7 +27,7 @@ Featured Artists: Carly Chubak, Miranda Friedman, Tu Nguyen, Joshua Oduga,  Kati
 
 \\\What makes a city become a city?
 
-// Layered Experiences. Concentrated Space. 
+// <i>Layered Experiences. Concentrated Space</i>. 
 
 \\\ Each installation or performance is endeavoring to explore and distill down elements of experience—essentializing them—representing them within the confines of  the A trans vitrine. 
 
@@ -35,7 +35,7 @@ Featured Artists: Carly Chubak, Miranda Friedman, Tu Nguyen, Joshua Oduga,  Kati
 
 \\\Where do they separate and where do they melt together?
 
-// Artistic Construction.
+// <i>Artistic Construction</i>.
 
 \\\ The artists are creating visual architectures to capture systems of classification then leaving the ephemera of those explorations in situ. Each one choosing whether to build on the foundations left by earlier artists or clear elements away to construct anew. 
 
@@ -43,28 +43,28 @@ Featured Artists: Carly Chubak, Miranda Friedman, Tu Nguyen, Joshua Oduga,  Kati
 
 \\\ Are these categorizations even still comprehensible?
  
-// Compositional Archaeology. 
+// <i>Compositional Archaeology. </i>
 
-\\\ Stratigraphy Sequence asks viewers to navigate this spatial collage constructed through successively layered temporal deposits culminating in collaborative composition. 
+\\\ <i>Stratigraphy Sequence</i> asks viewers to navigate this spatial collage constructed through successively layered temporal deposits culminating in collaborative composition. 
 <br>
 
 <h3>Event and Performance Schedule:</h3>
 
 <br>Friday, June 7: 
-<br>16:00-17:00 Edible by Stephanie Sherwood and Katie Shanks
-<br>17:00-23:00 B-LA Opening Exhibition
+<br>16:00-17:00 <i>Edible</i> by Stephanie Sherwood and Katie Shanks
+<br>17:00-23:00 <i>B-LA</i> Opening Exhibition
 <br>
 <br>Saturday, June 8:
-<br>10:30-10:45 Heat by Miranda J. Friedman
+<br>10:30-10:45 <i>Heat</i> by Miranda J. Friedman
 <br>
 <br>Sunday June 9:
-<br>10:30-13:30 On the Road to:  Berlin//Los Angeles by Carly Chubak
+<br>10:30-13:30 <i>(on) the road (again)</i> by Carly Chubak
 <br>
 <br>Monday, June 10:
-<br>TBD Rice Sculpture by Tu Nguyen
+<br>Sculpture by Tu Nguyen
 <br>
 <br>Tuesday, June 11:
-<br>14:00-17:00 Rite to Remain by Katie Shanks
+<br>14:00-17:00 <i>Rite to Remain</i> by Katie Shanks
 <br>
 <br>Wednesday, June  12:
 <br>14:00-16:00 Tour 4 B-LA Connect U6 / U7
@@ -81,4 +81,6 @@ A TRANS is an itinerant conceptual laboratory headed by Isolde Nagel for creativ
 
 
 
-![strat](img/portfolio/strat.png)
+<!--![strat](img/portfolio/strat.png)-->
+
+<img src = "img/portfolio/strat.png" class="img-responsive img-centered" alt="">

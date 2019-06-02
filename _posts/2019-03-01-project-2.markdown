@@ -23,4 +23,7 @@ Featuring Sean Cully and Joshua Oduga.
 
 "Torrance Art Museum is pleased to present CO/LAB 4, an international, collaborative project which presents eight artist-run galleries and collectives from Los Angeles partnering with eight artist-run spaces from Rotterdam. Sixteen organizations combine their ingenuity to design eight unique curatorial projects."
 -[TAM](http://www.torranceartmuseum.com/colab4)
-![colab](img/portfolio/COLABks.jpg)
+
+<!--![colab](img/portfolio/COLABks.jpg)-->
+
+<img src = "img/portfolio/COLABks.jpg" class="img-responsive img-centered" alt="">
