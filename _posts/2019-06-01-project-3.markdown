@@ -16,12 +16,13 @@ description: Stratigraphy Sequence.
 ---
 
 <h1><i>Stratigraphy Sequence</i></h1>
-<h3>June 7-23, 2019</h3>
+<h3>7-23 June, 2019</h3>
+<h3>on view 24hr daily</h3>
 <h3>Vitrine  U-Kleistpark (U7), 10781 Berlin</h3>
 
 <i>STRATIGRAPHY SEQUENCE</i> is a collaboration between Berlin project space A TRANS and members of Acceptable Risk Los Angeles as a part of B-LA Connect.
 
-Featured Artists: Carly Chubak, Miranda Friedman, Tu Nguyen, Joshua Oduga,  Katie Shanks, Stephanie Sherwood.
+Featured Artists: Carly Chubak, Miranda Friedman, Yon Natalie Mik, Tu Nguyen, Joshua Oduga,  Katie Shanks, Stephanie Sherwood.
 
 <br>
 
@@ -50,31 +51,51 @@ Featured Artists: Carly Chubak, Miranda Friedman, Tu Nguyen, Joshua Oduga,  Kati
 
 <h3>Event and Performance Schedule:</h3>
 
-<br>Friday, June 7: 
-<br>16:00-17:00 <i>Edible</i> by Stephanie Sherwood and Katie Shanks
-<br>17:00-23:00 <i>B-LA</i> Opening Exhibition
+
+
+
+<br>Friday, 07.06.19
+<br>16:00-17:00 
+<br><i>Edible</i>
+<br>Katie Shanks and Stephanie Sherwood
+<br>Soundtrack: Excerpts from Margaret Atwood’s novel The Edible Woman
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633124446&color=%23030000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
 <br>
-<br>Saturday, June 8:
-<br>10:30-10:45 <i>Heat</i> by Miranda J. Friedman
+<br>Saturday, 08.06.19
+<br>10:30-10:45 
+<br><i>Heat</i>
+<br>Miranda J. Friedman
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/633122367&color=%23252525&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
 <br>
-<br>Sunday June 9:
-<br>10:30-11:30 <i>(on) the road (again)</i> by Carly Chubak
+<br>Sunday 09.06.19
+<br>10:30-11:30 
+<br><i>(on) the road (again)</i> 
+<br>Carly Chubak
+
+
 <br>
-<br>Monday, June 10:
-<br>Sculpture by Tu Nguyen
+<br>Monday, 10.06.19
+<br><i>Found Objects</i>
+<br>Tu Nguyen
+
+
 <br>
-<br>Tuesday, June 11:
-<br>14:00-17:00 <i>Rite to Remain</i> by Katie Shanks
+<br>Tuesday, 11.06.19
+<br>14:00-17:00 
+<br><i>Rite to Remain</i>
+<br>Katie Shanks
+
+
 <br>
-<br>Wednesday, June  12:
-<br>14:00-16:00 Tour 4 B-LA Connect U6 / U7
-<br>Scharaun → U7 
-<br>Kleistpark → Changing Room
-<br>
-<br><i>Saturday, June 8-Sunday June, 23
-<br>24hr daily, Installation on view at 
-<br>A TRANS Vitrine
-<br>U-Bahnhof Kleistpark (U7) in 10781 Berlin </i>
+<br>Wednesday, 12.06.19
+<br>15:00-18:00 
+<br><i>Caligo</i>
+<br>Yon Natalie Mik
+
 
 
 A TRANS is an itinerant conceptual laboratory headed by Isolde Nagel for creative people and a platform for communication about contemporary art, architecture, urbanism and related culture with the focus on the city, space and architecture based in Berlin, which found a set of like minded allies in the nomadic artist collective Acceptable Risk Los Angeles. Both explore the possibilities of and draw inspiration from their expansive urban environments and the diverse communities housed therein.
