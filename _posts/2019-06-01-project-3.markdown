@@ -95,7 +95,7 @@ Featured Artists: Carly Chubak, Miranda Friedman, Yon Natalie Mik, Tu Nguyen, Jo
 <br>15:00-18:00 
 <br><i>Caligo</i>
 <br>Yon Natalie Mik
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/634376451&color=%231f2125&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 
 A TRANS is an itinerant conceptual laboratory headed by Isolde Nagel for creative people and a platform for communication about contemporary art, architecture, urbanism and related culture with the focus on the city, space and architecture based in Berlin, which found a set of like minded allies in the nomadic artist collective Acceptable Risk Los Angeles. Both explore the possibilities of and draw inspiration from their expansive urban environments and the diverse communities housed therein.
