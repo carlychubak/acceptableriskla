@@ -1,0 +1,35 @@
+---
+title: B-LA Connect
+permalink: blaconnect.html
+subtitle: ARLA + Studio Baustelle
+layout: post
+modal-id: 4
+date: 2019-06-02
+img: iatthumb.jpg
+thumbnail: iatthumb.jpg
+alt: colab
+project-date: 2019
+client: none
+category: post
+description: ARLA and Studio Baustelle. B-LA Connect 2019. Berlin, Germany. 6/7 - 6/23/2019.  
+
+---
+
+<h1><i>B-LA Connect</i></h1>
+"B-LA CONNECT understands itself as an international cultural exchange on a grass roots level. It brings together members of different art spheres and scenes from both cities. New opportunities for interacting and connecting with each other are created and extended locally inside and transnationally between the two cities."
+-[B-LA Connect](https://www.b-la-connect.org)
+<h3>June 7-23, 2019</h3>
+Partnered with Studio Baustelle, Berlin, Germany.  
+Curated by Joshua Oduga and Tu Nguyen.  
+ARLA Artists: Emily Babette, Carly Chubak, Sean Cully, Miranda Friedman, Katie Shanks, Stephanie Sherwood, Kate Sikorski.
+Studio Baustelle Artists: Marija Brasnic, Lindsey Dodge, Sarah Godfrey, Annsofie Jonsson, Janin Walter.
+
+<h3>in, around, through</h3>
+In a sentence, a prepositional phrase acts as a bridge connecting two disparate worlds. 
+The prepositions <i>in, around, through</i> form a metaphorical meeting point between two worlds that are socially separate and at once united through a shared desire for transformation. With disciplinary practices spanning performance, painting, sculpture, and fiber arts, 12 unique artists from Los Angeles and Berlin converge to form a divergent landscape of new possibilities. Responding to the limitation of looking at a surface, the exhibition is an invitation to rethink conventional notions of viewership. Visitors can move in, around, and through to participate, circumnavigate, examine and thoughtfully immerse in the garden of works.
+
+
+
+<img src = "img/portfolio/iat1.jpg" class="img-responsive img-centered" alt="">
+<img src = "img/portfolio/iat2.jpg" class="img-responsive img-centered" alt="">
+<img src = "img/portfolio/iat3.jpg" class="img-responsive img-centered" alt="">
