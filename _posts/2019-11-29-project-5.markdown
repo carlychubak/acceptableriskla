@@ -1,0 +1,28 @@
+---
+title: Un-Black Friday Sale
+permalink: blackfriday.html
+subtitle: ARLA @ Studio 203
+layout: post
+modal-id: 5
+date: 2019-11-29
+img: bf19thumb.jpg
+thumbnail: bf19thumb.jpg
+alt: black friday
+project-date: 11-29-2019
+client: none
+category: post
+description: ARLA's Un-Black Friday Holiday FUNdraiser! 2019. Los Angeles, CA. 11/29/2019.  
+
+---
+
+<h1><i>Un-Black Friday Sale</i></h1>
+<h3>November 29, 2019</h3>
+A sale of affordable art and gifts to support our 2020 art projects and get the holiday shopping out of the way! 
+
+Partnered with and hosted by Studio 203, 3440 Motor Ave, 90034.  
+
+<img src = "img/portfolio/bf1.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/bf2.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/bf3.jpg" class="img-responsive img-centered" alt="">

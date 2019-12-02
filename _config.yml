@@ -45,17 +45,8 @@ people:
     - title: instagram
       url: 'https://www.instagram.com/seacully/'
 
-- name: <a href = "https://mirandajfriedman.com/">Miranda J. Friedman</a>
-  pic: 5
-  #position:
-  social:
-    - title: laptop
-      url: 'https://mirandajfriedman.com/'
-    - title: instagram
-      url: 'https://www.instagram.com/mirandajfriedman/'
-
 - name: <a href = "https://centralserver.biz/">Joshua Oduga</a>
-  pic: 6
+  pic: 5
   #position:
   social:
     - title: laptop
@@ -63,15 +54,8 @@ people:
     - title: instagram
       url: 'https://www.instagram.com/tundeoduga/'
 
-#- name: <a href = "https://www.instagram.com/mummers22/">Tu Nguyen</a>
-#  pic: 7
-#  #position:
-#  social:
-#    - title: instagram
-#      url: 'https://www.instagram.com/mummers22/'
-
 - name: <a href = "http://stephaniesherwoodart.com/">Stephanie Sherwood</a>
-  pic: 8
+  pic: 6
   #position:
   social:
     - title: laptop
@@ -80,7 +64,7 @@ people:
       url: 'https://www.instagram.com/stephanie_sherwood_art/'
 
 - name: <a href = "http://www.kshanks.com/">Katie Shanks</a>
-  pic: 9
+  pic: 7
   #position:
   social:
     - title: laptop
@@ -89,7 +73,7 @@ people:
       url: 'https://www.instagram.com/art.kshanks/'
 
 - name: <a href = "http://katesikorski.com/">Kate Sikorski</a>
-  pic: 10
+  pic: 8
   #position:
   social:
     - title: laptop
