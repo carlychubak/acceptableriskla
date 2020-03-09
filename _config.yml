@@ -72,15 +72,6 @@ people:
     - title: instagram
       url: 'https://www.instagram.com/art.kshanks/'
 
-- name: <a href = "http://katesikorski.com/">Kate Sikorski</a>
-  pic: 10
-  #position:
-  social:
-    - title: laptop
-      url: 'http://katesikorski.com/'
-    - title: instagram
-      url: 'https://www.instagram.com/kate_sikorski/'
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
