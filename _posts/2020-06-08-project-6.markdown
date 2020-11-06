@@ -1,7 +1,7 @@
 ---
-title: OPaf
-permalink: opaf.html
-subtitle: Other Places Art Fair
+title: LARp
+permalink: larp.html
+subtitle: Los Angeles Rotterdam project
 layout: post
 modal-id: 6
 date: 2020-06-08
@@ -11,7 +11,7 @@ alt: larp
 project-date: 06-08-2020
 client: none
 category: post
-description: ARLA's Un-Black Friday Holiday FUNdraiser! 2019. Los Angeles, CA. 11/29/2019.  
+description: ARLA partners with Bcademie from Rotterdam for L.A.R.p. 2020. Online. 06/08-28/2020.  
 
 ---
 

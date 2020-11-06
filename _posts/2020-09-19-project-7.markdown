@@ -1,0 +1,28 @@
+---
+title: OPaf
+permalink: opaf.html
+subtitle: Other Places Art Fair
+layout: post
+modal-id: 7
+date: 2020-09-19
+img: opaf.jpg
+thumbnail: opaf.jpg
+alt: opaf
+project-date: 09-19-2020
+client: none
+category: post
+description: ARLA members Emily Babette, Carly Chubak, Sean Cully, Stephanie Sherwood, and Katie Shanks create work for OPaf 2020. Online. 9/19-10/31/2020.  
+
+---
+
+<h1><i>Other Places art fair (OPaf)</i></h1>
+<h3>September 19 - October 31, 2020</h3>
+
+ "Fluid in definition, bonded by an intention to operate in other places outside the traditional 
+ art gallery systems, OPaf (Other Places art fair) features participants presenting site-specific 
+ booths encapsulating their projects and programming. Representing the growing movement of 
+ hard-to-define art spaces, OPaf provides an alternative art fair structure designed specifically for 
+ these unconventional projects." --<a href="https://www.opaf.info/">OPaf</a>
+ 
+
+<img src = "img/portfolio/noisysock1.jpg" class="img-responsive img-centered" alt="">
