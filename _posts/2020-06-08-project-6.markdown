@@ -1,0 +1,40 @@
+---
+title: OPaf
+permalink: opaf.html
+subtitle: Other Places Art Fair
+layout: post
+modal-id: 6
+date: 2020-06-08
+img: larp.jpg
+thumbnail: larp.jpg
+alt: larp
+project-date: 06-08-2020
+client: none
+category: post
+description: ARLA's Un-Black Friday Holiday FUNdraiser! 2019. Los Angeles, CA. 11/29/2019.  
+
+---
+
+<h1><i>Los Angeles Rotterdam Project</i></h1>
+<h3>June 8-28th, 2020</h3>
+
+ "The <i>Los Angeles Rotterdam project (L.A.R.p)</i> is a collaborative project which sees artist initiatives 
+ from Los Angeles paired up with initiatives from Rotterdam to make a series of online exhibitions. 
+ L.A.R.p will take place between the 8th and 28th of June 2020 during which time each initiative pair 
+ will be creating works in collaboration." --<a href="https://larp.hotglue.me/about">L.A.R.p</a>
+ 
+ 
+ARLA and Bcademie Art Collective present <i>PONG</i>, a digital call-and-response reflecting on the theme of time, 
+routine and/or ritual.  See <a href="https://larp.hotglue.me/?exhibition_5">website</a>.
+
+
+
+<img src = "img/portfolio/larp1.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/larp2.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/larp3.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/larp4.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/clippy.jpg" class="img-responsive img-centered" alt="">
