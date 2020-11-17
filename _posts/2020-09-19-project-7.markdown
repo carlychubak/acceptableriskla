@@ -26,3 +26,10 @@ description: ARLA members Emily Babette, Carly Chubak, Sean Cully, Stephanie She
  
 
 <img src = "img/portfolio/noisysock1.jpg" class="img-responsive img-centered" alt="">
+<center>Carly Chubak and Sean Cully. "Noisy Sock."</center>
+
+<img src = "img/portfolio/confine.jpg" class="img-responsive img-centered" alt="">
+<center>Stephanie Sherwood. "Confine in Situ."</center>
+
+<img src = "img/portfolio/opaftalks.jpg" class="img-responsive img-centered" alt="">
+<center>ARLA Member Emily Babette speaks on OPaf panel.</center>
