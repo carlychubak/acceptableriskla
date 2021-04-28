@@ -29,6 +29,12 @@ routine and/or ritual.  See <a href="https://larp.hotglue.me/?exhibition_5">webs
 
 
 
-<img src = "img/portfolio/larp.jpg" class="img-responsive img-centered" alt="">
+<img src = "img/portfolio/larp1.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/larp2.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/larp3.jpg" class="img-responsive img-centered" alt="">
+
+<img src = "img/portfolio/larp4.jpg" class="img-responsive img-centered" alt="">
 
 <img src = "img/portfolio/clippy.jpg" class="img-responsive img-centered" alt="">
