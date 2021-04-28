@@ -1,0 +1,28 @@
+---
+title: High Beams 3
+permalink: HB3.html
+subtitle: Laser Snakes
+layout: post
+modal-id: 8
+date: 2021-04-17
+img: hb3.jpg
+thumbnail: hb3.jpg
+alt: hb3
+project-date: 04-17-2021
+client: none
+category: post
+description: ARLA members Carly Chubak and Stephanie Sherwood create work for High Beams 3. 4/17/2021.  
+
+---
+
+<h1><i>High Beams 3: Laser Snakes</i></h1>
+<h3>April 17, 2021</h3>
+
+ "Playfully titled Laser Snake, the COVID-safe exhibition will prove to be the most exuberant and mystical yet, with 
+ live performances from art clowns, wheat threshing, painters erasing musicians from view, and at least three pyramids, 
+ each with a different meaning and aesthetic. The title was inspired by the first High Beams show, when a queue of 150 
+ cars formed a “laser snake” as it meandered through a rooftop parking lot." --<a href="https://www.highbeams.art/">High Beams</a>
+ 
+
+<img src = "img/portfolio/lsp_ssedit.jpg" class="img-responsive img-centered" alt="">
+<center>Lumpy Space Princess installation.  Paintings by Stephanie Sherwood and soft sculpture by Carly Chubak</center>
